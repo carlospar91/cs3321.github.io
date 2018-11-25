@@ -1,0 +1,13 @@
+(1) Introduce your team organization and team model (e.g. democratic team approach) used in this project.
+
+(2) Introduce the Github content of your team project for version control.
+
+(3) Show requirement and analysis workflow related artifacts used in this project. For example, use-case diagrams, software project management plan, prototype for identifying basic requirements, and so forth.
+
+(4) Show design and implementation workflow related artifacts used in this project. For example, class diagrams, interaction diagrams, sequence diagrams, CRC cards, source codes, and so forth.
+
+(5) Show test workflow related artifacts like unit test cases, integration test, product test, and so forth.
+
+(6) Run your software like user login, course add-in/drop-off, GPA calculation, user adding/deleting, course management, and so forth.
+
+If some of the above items don't work (e.g. data reading or storage doesn't work), don't worry about that. Show these artifacts and workflows, which are consistent to software development standards.
